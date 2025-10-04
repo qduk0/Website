@@ -1,10 +1,10 @@
 import Header from "../components/Header/Header"; 
-function Home() {
+function About() {
     return (
         <div>
             <Header />
-            <p>Hello, this is your home page!</p>
+            <p>Hello, this is your About page!</p>
         </div>
     );
 }
-export default Home;
+export default About;
